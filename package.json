@@ -1,0 +1,23 @@
+{
+  "name": "deep_look",
+  "version": "1.0.0",
+  "description": "Project analyzer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NonCreature0714/deep-look.git"
+  },
+  "keywords": [
+    "analyzer",
+    "project"
+  ],
+  "author": "NonCreature0714",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NonCreature0714/deep-look/issues"
+  },
+  "homepage": "https://github.com/NonCreature0714/deep-look#readme"
+}
