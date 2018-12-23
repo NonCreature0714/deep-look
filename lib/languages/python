@@ -1,0 +1,3 @@
+const keywords = [];
+const operators = [];
+const syntax = {};

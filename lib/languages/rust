@@ -1,0 +1,33 @@
+"use strict";
+
+var fs = require('fs');
+
+var rust = {};
+
+const keywords = ['fn'];
+const operators = ['+', '-', '%'];
+const syntax = {};
+
+rust = function is_file_extension(of_languge, filename) {
+
+}
+
+rust = function is_rust_language_in(file) {
+
+}
+
+rust = function (file) {
+    if (fs.existsSync(file)) {
+
+    }
+}
+ 
+rust = function (directory) {
+
+}
+
+rust.keywords = this.keywords;
+rust.operators = this.operators;
+rust.syntax = this.syntax;
+
+module.exports = { rust }
